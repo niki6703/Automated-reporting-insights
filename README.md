@@ -1,4 +1,3 @@
-# Automated-reporting-insights(Project)
 # Automated Real-Time Reporting & Data Insights
 
 This project automates real-time customer service ticket reporting using Python, SQL, Excel, and Power BI. It enables faster, data-driven decision-making by highlighting KPIs, complaint trends, and performance insights.
